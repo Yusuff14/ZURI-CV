@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+body {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(231, 229, 229);
+}
+
+.head {
+    border-collapse: collapse;
+    width: 900px;
+    margin: 0 auto 0;
+    border: none;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.name, .contact{
+    background-color: #01386a;
+}
+
+.contact {
+    color: white;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.table2 {
+    background-color: white;
+    border-collapse: collapse;
+    width: 900px;
+    margin: 0 auto 0;
+    border: none;
+    font-size: 14px;
+    line-height: 27px;
+    margin-bottom: 20px;
+    text-indent: 110px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.nme {
+    color: tomato;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.s_body {
+    color: tomato;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: larger;
+} 
+
