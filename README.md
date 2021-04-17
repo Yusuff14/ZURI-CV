@@ -1,2 +1,2 @@
 # ZURI-CV
-Creating my CV with html and css
+https://yusuff14.github.io/ZURI-CV/
